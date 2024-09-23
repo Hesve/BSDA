@@ -1,1 +1,1 @@
-Project work for the BSDA course. The aim of the project is to analyze the effect of compulsory seat belts on road mortality using bayesian statistics. The course can be found  [here](https://github.com/MansMeg/BSDA)
+Project work for the BSDA course. The aim of the project is to analyze the effect of compulsory seat belts on road mortality using bayesian statistics. The course can be found  [here](https://github.com/MansMeg/BSDA).
